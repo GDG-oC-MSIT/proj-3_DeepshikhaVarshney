@@ -9,3 +9,7 @@ DSA Concepts Used:
 Arrays for candidate lists.
 HashMap for counting votes.
 
+Output - 
+![Screenshot 2024-12-05 002715](https://github.com/user-attachments/assets/a8218c63-510b-4054-9381-4e18fb46f60e)
+
+
